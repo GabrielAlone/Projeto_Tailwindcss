@@ -1,7 +1,7 @@
 import Header from "./components/Header"
-
-
-
+import Hero from "./components/Hero"
+import Recursos from "./components/Recursos"
+import Sobre from "./components/Sobre"
 import Footer from "./components/Footer"
 
 export default function App() { 
@@ -11,9 +11,9 @@ export default function App() {
     <Header />
 
     <main>
-      {/* <Hero />
+      <Hero />
       <Recursos />
-      <Sobre />*/}
+      <Sobre />
     </main>
 
      <Footer />
