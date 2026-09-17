@@ -81,6 +81,7 @@ export default function HeroContent() {
                     Ver projeto
                 </button>
             </div>
+            
         </div>
     )
 }

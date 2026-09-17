@@ -35,6 +35,7 @@ export default function Recursos() {
                     Com poucas classes conseguimos controlar praticamente
                     toda a apresentação da interface.
                 </p>
+                
             </div>
 
             <div
@@ -56,8 +57,17 @@ export default function Recursos() {
                 "
                 />
 
-                <RecursoCard
+                 <RecursoCard
                   icone="📱"
+                  titulo="Responsividade"
+                  descricao="
+                    Crie layouts que se adaptam
+                    a celular, tablet e desktop.
+                "
+                />
+
+                <RecursoCard
+                  icone="⚡"
                   titulo="Produtividade"
                   descricao="
                     Monte interfaces rapidamente

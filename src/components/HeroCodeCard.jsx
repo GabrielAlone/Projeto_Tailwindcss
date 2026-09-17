@@ -25,7 +25,7 @@ export default function HeroCodeCard() {
             >
                 
                 <p className="font-mono text-sm text-yellow-400">
-                    &lt;div className"
+                    &lt;div className="
                 </p>
 
                 <p className="ml-5 font-mono text-sm text-green-400">
@@ -44,6 +44,7 @@ export default function HeroCodeCard() {
                     "&gt;
                 </p>
             </div>
+
         </div>
     )
 }

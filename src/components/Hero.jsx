@@ -26,6 +26,8 @@ export default function Hero() {
             "
             >
                 <HeroContent />
+
+                <HeroCodeCard />
             </div>
         </section>
     )

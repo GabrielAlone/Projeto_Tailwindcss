@@ -1,6 +1,6 @@
 export default function Header() {
     return (
-        <header className="bg-black text-white shadw-md">
+        <header className="bg-black text-white shadow-md">
             <div className="
             mx-auto flex max-w-6x1
             items-center justify-between
@@ -17,6 +17,13 @@ export default function Header() {
                   className="transition hover:text-yellow-400"
                 >
                    Inicio
+                </a>
+
+                <a
+                  href="#recursos"
+                  className="transition hover:text-yellow-400"
+                >
+                  Recursos
                 </a>
 
                 <a
